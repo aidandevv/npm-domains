@@ -3,10 +3,24 @@
   "version": "1.0.0",
   "description": "Reserved by Aidan. Visit https://aidandevaney.com",
   "main": "index.js",
-  "keywords": ["aidan"],
+  "keywords": [
+    "aidan"
+  ],
   "author": "Aidan",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "bin": {
+    "aidandev": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidandevv/npm-domains"
+  },
+  "homepage": "https://aidandevaney.com"
 }

@@ -3,7 +3,22 @@
   "version": "1.0.0",
   "description": "Reserved by Aidan. Visit https://aidandevaney.com",
   "main": "index.js",
-  "keywords": ["aidan", "hire"],
+  "keywords": [
+    "aidan",
+    "hire"
+  ],
   "author": "Aidan",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "hire-aidan": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aidandevv/npm-domains"
+  },
+  "homepage": "https://aidandevaney.com"
 }

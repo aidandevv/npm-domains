@@ -1,7 +1,21 @@
 # @aidandev/cli
 
-This package is reserved by [Aidan](https://aidandevaney.com).
+Interactive terminal card for [Aidan DeVaney](https://aidandevaney.com).
+
+```bash
+npx @aidandev/cli
+```
+
+Neofetch-inspired profile:
+
+```bash
+npx @aidandev/cli --fetch
+```
+
+**Commands:** `/recruiter` · `/engineer` · `/hiring-manager` · `/product` · `/links` · `/email`
+
+**Controls:** type `/` for suggestions · `↑↓` select · `↵` open · `Esc` back · `/quit` exit
 
 ---
 
-*This is a placeholder package. Check back soon.*
+Part of [aidandevv/npm-domains](https://github.com/aidandevv/npm-domains).

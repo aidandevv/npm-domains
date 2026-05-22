@@ -6,7 +6,15 @@ Interactive terminal card for [Aidan Devaney](https://aidandevaney.com).
 npx aidandevaney
 ```
 
-**Controls:** `↑↓` navigate · `↵` open in browser · `c` copy email · `q` quit
+Neofetch-inspired profile:
+
+```bash
+npx aidandevaney --fetch
+```
+
+**Commands:** `/recruiter` · `/engineer` · `/hiring-manager` · `/product` · `/links` · `/email`
+
+**Controls:** type `/` for suggestions · `↑↓` select · `↵` open · `Esc` back · `/quit` exit
 
 ---
 
