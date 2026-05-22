@@ -1,0 +1,9 @@
+{
+  "name": "aidan-cli",
+  "version": "1.0.0",
+  "description": "Reserved by Aidan. Visit https://aidandevaney.com",
+  "main": "index.js",
+  "keywords": ["aidan", "cli"],
+  "author": "Aidan",
+  "license": "MIT"
+}

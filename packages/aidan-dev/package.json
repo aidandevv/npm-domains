@@ -1,0 +1,9 @@
+{
+  "name": "aidan-dev",
+  "version": "1.0.0",
+  "description": "Reserved by Aidan. Visit https://aidandevaney.com",
+  "main": "index.js",
+  "keywords": ["aidan", "developer"],
+  "author": "Aidan",
+  "license": "MIT"
+}
