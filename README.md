@@ -32,5 +32,3 @@ Interactive terminal card — `↑↓` to navigate links, `↵` to open in brows
 | [`@aidandev/core`](packages/@aidandev/core) | 🅿️ Parked | [npmjs.com/package/@aidandev/core](https://www.npmjs.com/package/@aidandev/core) |
 | [`@aidandev/cli`](packages/@aidandev/cli) | 🅿️ Parked | [npmjs.com/package/@aidandev/cli](https://www.npmjs.com/package/@aidandev/cli) |
 | [`@aidandev/aidandev`](packages/@aidandev/aidandev) | 🅿️ Parked | [npmjs.com/package/@aidandev/aidandev](https://www.npmjs.com/package/@aidandev/aidandev) |
-| `aidan` | 🚫 Blocked | Too similar to existing package `livan` |
-| `aidandev` | 🚫 Blocked | Too similar to `aidan-dev` — appeal submitted |
